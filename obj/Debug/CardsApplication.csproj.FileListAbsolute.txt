@@ -1,0 +1,7 @@
+D:\Imp\CardsApplication\bin\Debug\CardsApplication.exe.config
+D:\Imp\CardsApplication\bin\Debug\CardsApplication.exe
+D:\Imp\CardsApplication\bin\Debug\CardsApplication.pdb
+D:\Imp\CardsApplication\obj\Debug\CardsApplication.csprojAssemblyReference.cache
+D:\Imp\CardsApplication\obj\Debug\CardsApplication.csproj.CoreCompileInputs.cache
+D:\Imp\CardsApplication\obj\Debug\CardsApplication.exe
+D:\Imp\CardsApplication\obj\Debug\CardsApplication.pdb
